@@ -140,3 +140,5 @@ $RECYCLE.BIN/
 .Rproj.user
 data/Features.txt
 *.txt
+.RData
+*.Rhistory
