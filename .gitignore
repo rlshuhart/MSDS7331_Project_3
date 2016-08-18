@@ -144,3 +144,5 @@ data/Features.txt
 *.Rhistory
 .~CRISP-DM Model Breast Cancer Clustering.ipynb
 research/Efficient Clustering of High-Dimensional Data Sets p169-mccallum.pdf
+CRISP-DM Model Breast Cancer Clustering (rshuhart@smu.edu).ipynb
+*.Rproj
